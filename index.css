@@ -1,0 +1,7 @@
+table, th, td {
+    border: 1px dotted black;
+    border-collapse: collapse;
+}
+.cabecalho {
+    background-color:#FAE5CA;
+}
